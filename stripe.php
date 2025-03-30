@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: COMPOSER BUILD: Gravity Forms Stripe Add-On
+ * Plugin Name: Gravity Forms Stripe Add-On
  * Plugin URI: https://gravityforms.com
- * Description: Integrates Gravity Forms with Stripe, enabling end users to purchase goods and services through Gravity Forms.
+ * Description: COMPOSER BUILD: Integrates Gravity Forms with Stripe, enabling end users to purchase goods and services through Gravity Forms.
  * Version: 5.9.0
  * Author: Gravity Forms
  * Author URI: https://gravityforms.com
